@@ -1,6 +1,11 @@
 # fed-vision
 
 **cvpr papers**
+
+
+https://sites.google.com/view/fedvision 
+
+
 https://github.com/pipilurj/DynaFed
 https://github.com/YMJS-Irfan/DP-FedSAM
 https://github.com/JunyiZhu-AI/confidence_aware_PFL
