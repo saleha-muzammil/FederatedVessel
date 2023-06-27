@@ -1,7 +1,7 @@
 # fed-vision
 
 **cvpr papers**
-
+https://openaccess.thecvf.com/CVPR2022_workshops/FedVision
 
 https://sites.google.com/view/fedvision 
 
