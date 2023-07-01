@@ -16,4 +16,6 @@ yolov3 one step efficiency over accuracy
 fed avg
 
 privacy 
-differential privacy , adding noise 
+differential privacy , adding noise but reuqires data aggregation 
+secure MPC but requires thirs party .. multi party coomunicaion
+therefore fl has been used 
