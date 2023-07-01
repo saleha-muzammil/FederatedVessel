@@ -1,5 +1,9 @@
 # fed-vision
 
+concepts: 
+horizontal federated learning 
+
+
 **cvpr papers**
 https://openaccess.thecvf.com/CVPR2022_workshops/FedVision
 
