@@ -19,6 +19,24 @@ fedyolov3
 privacy 
 differential privacy , adding noise but reuqires data aggregation 
 secure MPC but requires thirs party .. multi party coomunicaion
-
+secure aggregation imppp
 zero sum mask
 therefore fl has been used 
+
+
+cross-silo federated learning (medical, financial) 
+
+
+partional -> vertical horizontal
+
+
+
+
+
+challenges arising due to medical image segmentation 
+statisticl heterogeneity non iid data 
+limited labeling 
+
+
+solution 
+dynamic aggregation and knowledge distillation
