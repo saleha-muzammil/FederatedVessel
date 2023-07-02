@@ -37,7 +37,7 @@ semi supervised / supervised
 CHALLENGE : SEMI SUPERVISED LEARNING , LABELLED DATA ON SERVER (UNSAFE), LABELLED UNLABELLED BOTH ON CLIENT 
 
 CHALLENGES arising due to medical image segmentation 
-statisticl heterogeneity non iid data 
+statisticl heterogeneity non iid data -> MODEL DRIFTS
 limited labeling 
 
 
